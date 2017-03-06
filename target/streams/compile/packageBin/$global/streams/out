@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/spring-boot-scala-sample_2.11-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/HelloWorldController.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloWorldController.class[0m
+[0m[[0mdebug[0m] [0m	com/example[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/package$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app/SpringBootScalaApplication$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app/SpringBootScalaApplication.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/package.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package.class[0m
+[0m[[0mdebug[0m] [0m	application.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/application.properties[0m
+[0m[[0mdebug[0m] [0m	com/example/app/SpringBootScalaApplication$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/package$HelloRequest.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/package$HelloRequest$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest$.class[0m
+[0m[[0mdebug[0m] [0m	com/example/app/controllers/HelloFormatter.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloFormatter.class[0m
+[0m[[0mdebug[0m] [0m	app-config.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/app-config.properties[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,350 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes
+compile options:
+3 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$delayedInit$body.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloFormatter.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloWorldController.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest$.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest.class
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package.class
+binary dependencies:
+24 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-joda/bundles/jackson-datatype-joda-2.8.6.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.8.6.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot-autoconfigure/jars/spring-boot-autoconfigure-1.4.3.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot/jars/spring-boot-1.4.3.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /home/nimrod/.ivy2/cache/org.springframework/spring-context/jars/spring-context-4.3.5.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.6.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot/jars/spring-boot-1.4.3.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/.ivy2/cache/org.springframework/spring-context/jars/spring-context-4.3.5.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/com.typesafe.scala-logging/scala-logging-slf4j_2.11/jars/scala-logging-slf4j_2.11-2.1.1.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/javax.validation/validation-api/jars/validation-api-1.1.0.Final.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.22.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/org.springframework/spring-beans/jars/spring-beans-4.3.5.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/.ivy2/cache/org.springframework/spring-web/jars/spring-web-4.3.5.RELEASE.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.6.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.6.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/.ivy2/cache/org.hibernate/hibernate-validator/jars/hibernate-validator-5.2.4.Final.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> /home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> com.example.app.SpringBootScalaApplication
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> com.example.app.SpringBootScalaApplication$
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> com.example.app.SpringBootScalaApplication$delayedInit$body
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> com.example.app.controllers.HelloFormatter
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> com.example.app.controllers.HelloWorldController
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> com.example.app.controllers.package
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> com.example.app.controllers.package$
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> com.example.app.controllers.package$HelloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> com.example.app.controllers.package$HelloRequest$
+used names:
+182 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> <init>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> <repeated...>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> Any
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> AnyRef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> App
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> Bean
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> ComponentScan
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> ConfigurableApplicationContext
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> Configuration
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> DefaultScalaModule
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> EnableAutoConfiguration
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> JettyEmbeddedServletContainerFactory
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> JodaModule
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> Object
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> SpringApplication
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> SpringBootApplication
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> SpringBootScalaApplication
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> String
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> annotation
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> app
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> autoconfigure
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> boot
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> com
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> context
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> datatype
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> embedded
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> example
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> fasterxml
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> jackson
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> jetty
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> joda
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> module
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> org
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> run
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> springframework
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> <init>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> <repeated...>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> AnyRef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> BeanProperty
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> Component
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> Configuration
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> ConfigurationProperties
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> DateTime
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> EnableConfigurationProperties
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> HelloFormatter
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> HelloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> MessageFormat
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> Object
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> Predef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> String
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> annotation
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> app
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> beans
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> boot
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> com
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> context
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> controllers
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> date
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> example
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> format
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> helloMessage
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> helloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> java
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> org
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> package
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> pattern
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> properties
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> springframework
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> stereotype
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> text
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> <init>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> <repeated>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Any
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> AnyRef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Autowired
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Boolean
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> HelloFormatter
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> HelloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> HelloWorldController
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> LazyLogging
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Logger
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> LoggerSupport
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Nothing
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Object
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> PostConstruct
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Predef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> RequestBody
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> RequestMapping
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> RequestMethod
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> ResponseEntity
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> RestController
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> String
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> T
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Unit
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Valid
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> Value
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> annotation
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> app
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> beans
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> bind
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> com
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> controllers
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> example
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> factory
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> format
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> helloFormatter
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> helloMessage
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> helloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> http
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> info
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> isInfoEnabled
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> javax
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> logger
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> ok
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> org
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> package
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> scalalogging
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> slf4j
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> springframework
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> typesafe
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> underlying
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> validation
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> web
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> &&
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> <init>
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> ==
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> A
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> AbstractFunction2
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Any
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> AnyRef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Boolean
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> DateTime
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> HelloRequest
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> IndexOutOfBoundsException
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Int
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Iterator
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> JsonFormat
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> JsonProperty
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> None
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> NotBlank
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Nothing
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Object
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Predef
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Product
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> ScalaRunTime
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Serializable
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Some
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> String
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> T
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> T0
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> T1
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> T2
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> Tuple2
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> _hashCode
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> _toString
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> annotation
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> app
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> asInstanceOf
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> com
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> constraints
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> controllers
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> date
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> eq
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> example
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> fasterxml
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> helloMessage
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> hibernate
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> isInstanceOf
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> jackson
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> joda
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> org
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> package
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> runtime
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> scala
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> time
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> toString
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> typedProductIterator
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> validator
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> ||
+product stamps:
+9 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication$delayedInit$body.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/SpringBootScalaApplication.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloFormatter.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/HelloWorldController.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest$.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package$HelloRequest.class -> lastModified(1488805984000)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/target/scala-2.11/classes/com/example/app/controllers/package.class -> lastModified(1488805984000)
+source stamps:
+4 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> hash(45720086e8f500c1bbda2eec91b3576c7325a7fc)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> hash(09249b911e2ac78334bfa224dda35a461db21fdc)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> hash(56be310f9e9f38a179b95e80f75ef5b4ab4a5d21)
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> hash(08d8070a372310d6dd367b90e823b05bdf15cc7e)
+binary stamps:
+15 items
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.6.jar -> lastModified(1484195528000)
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-joda/bundles/jackson-datatype-joda-2.8.6.jar -> lastModified(1484201100000)
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.8.6.jar -> lastModified(1484648355000)
+/home/nimrod/.ivy2/cache/com.typesafe.scala-logging/scala-logging-slf4j_2.11/jars/scala-logging-slf4j_2.11-2.1.1.jar -> lastModified(1398274905000)
+/home/nimrod/.ivy2/cache/javax.validation/validation-api/jars/validation-api-1.1.0.Final.jar -> lastModified(1365598981000)
+/home/nimrod/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.6.jar -> lastModified(1478812168000)
+/home/nimrod/.ivy2/cache/org.hibernate/hibernate-validator/jars/hibernate-validator-5.2.4.Final.jar -> lastModified(1455722122000)
+/home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/nimrod/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.22.jar -> lastModified(1481648725000)
+/home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot-autoconfigure/jars/spring-boot-autoconfigure-1.4.3.RELEASE.jar -> lastModified(1482460172000)
+/home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot/jars/spring-boot-1.4.3.RELEASE.jar -> lastModified(1482460166000)
+/home/nimrod/.ivy2/cache/org.springframework/spring-beans/jars/spring-beans-4.3.5.RELEASE.jar -> lastModified(1482506932000)
+/home/nimrod/.ivy2/cache/org.springframework/spring-context/jars/spring-context-4.3.5.RELEASE.jar -> lastModified(1482506931000)
+/home/nimrod/.ivy2/cache/org.springframework/spring-web/jars/spring-web-4.3.5.RELEASE.jar -> lastModified(1482506928000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1485521287000)
+class names:
+15 items
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.6.jar -> com.fasterxml.jackson.annotation.JsonProperty
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-joda/bundles/jackson-datatype-joda-2.8.6.jar -> com.fasterxml.jackson.datatype.joda.JodaModule
+/home/nimrod/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.8.6.jar -> com.fasterxml.jackson.module.scala.DefaultScalaModule
+/home/nimrod/.ivy2/cache/com.typesafe.scala-logging/scala-logging-slf4j_2.11/jars/scala-logging-slf4j_2.11-2.1.1.jar -> com.typesafe.scalalogging.slf4j.LazyLogging
+/home/nimrod/.ivy2/cache/javax.validation/validation-api/jars/validation-api-1.1.0.Final.jar -> javax.validation.Valid
+/home/nimrod/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.6.jar -> org.joda.time.DateTime
+/home/nimrod/.ivy2/cache/org.hibernate/hibernate-validator/jars/hibernate-validator-5.2.4.Final.jar -> org.hibernate.validator.constraints.NotBlank
+/home/nimrod/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction2
+/home/nimrod/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.22.jar -> org.slf4j.Logger
+/home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot-autoconfigure/jars/spring-boot-autoconfigure-1.4.3.RELEASE.jar -> org.springframework.boot.autoconfigure.EnableAutoConfiguration
+/home/nimrod/.ivy2/cache/org.springframework.boot/spring-boot/jars/spring-boot-1.4.3.RELEASE.jar -> org.springframework.boot.context.properties.ConfigurationProperties
+/home/nimrod/.ivy2/cache/org.springframework/spring-beans/jars/spring-beans-4.3.5.RELEASE.jar -> org.springframework.beans.factory.annotation.Autowired
+/home/nimrod/.ivy2/cache/org.springframework/spring-context/jars/spring-context-4.3.5.RELEASE.jar -> org.springframework.stereotype.Component
+/home/nimrod/.ivy2/cache/org.springframework/spring-web/jars/spring-web-4.3.5.RELEASE.jar -> org.springframework.web.bind.annotation.RequestMethod
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwSkQgZAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJJMpSHQABm5vdGlmeXNxAH4ADIUzjUZ0AAR3YWl0c3EAfgAMv2bnb3QADSRhc0luc3RhbmNlT2ZzcQB+AAxHH8TcdAALc2NhbGFNb2R1bGVzcQB+AAz/fRoQdAAGZXF1YWxzc3EAfgAMUXmAD3QADGFzSW5zdGFuY2VPZnNxAH4ADEC1NSJ0AA5leGVjdXRpb25TdGFydHNxAH4ADMnuYvN0AAxzeW5jaHJvbml6ZWRzcQB+AAwqrEQXdAANJGlzSW5zdGFuY2VPZnNxAH4ADCFvsKB0AARtYWluc3EAfgAMSyN+FnQACW5vdGlmeUFsbHNxAH4ADP9PJJx0AAxpc0luc3RhbmNlT2ZzcQB+AAy+iQthdAAGPGluaXQ+c3EAfgAMuigmtHQAAj09c3EAfgAMpsvuOHQABWNsb25lc3EAfgAMK/q9GHQABiRpbml0JHNxAH4ADPQppy10AAh0b1N0cmluZ3NxAH4ADP3l3ct0AARhcmdzc3EAfgAM6UEYi3QAAiE9c3EAfgAMUGCBPXQAEHNlcnZsZXRDb250YWluZXJzcQB+AAycyo4kdAAIZ2V0Q2xhc3NzcQB+AAxmXTdjdAAaU3ByaW5nQm9vdFNjYWxhQXBwbGljYXRpb25zcQB+AAzHjvSCdAACbmVzcQB+AAwntqFrdAACZXFzcQB+AAwQmzBFdAALZGVsYXllZEluaXRzcQB+AAyT8E23dAACIyNzcQB+AAxgOZ8pdAAIZmluYWxpemVzcQB+AAxpW4QrdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAACKClzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAANQ29uZmlndXJhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgB0dAAPc3ByaW5nZnJhbWV3b3Jrc3EAfgB0dAAHY29udGV4dHNxAH4AdHQACmFubm90YXRpb25zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXNxAH4AXHVxAH4AYAAAAAFzcQB+AGJxAH4AZHQAAigpc3EAfgBmdAANQ29tcG9uZW50U2NhbnEAfgBuc3EAfgBcdXEAfgBgAAAAAXNxAH4AYnEAfgBkdAACKClzcQB+AGZ0ABdFbmFibGVBdXRvQ29uZmlndXJhdGlvbnNxAH4AbHNxAH4Ab3VxAH4AcgAAAAVzcQB+AHR0AANvcmdzcQB+AHR0AA9zcHJpbmdmcmFtZXdvcmtzcQB+AHR0AARib290c3EAfgB0dAANYXV0b2NvbmZpZ3VyZXEAfgB/c3EAfgBcdXEAfgBgAAAAAXNxAH4AYnEAfgBkdAACKClzcQB+AGZ0ABVTcHJpbmdCb290QXBwbGljYXRpb25xAH4AjHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKmNvbS5leGFtcGxlLmFwcC5TcHJpbmdCb290U2NhbGFBcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAK29yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW5zcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AaHNxAH4AqXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AGlzcQB+AKl1cQB+AEoAAAAAc3EAfgCpdXEAfgBKAAAAAHNxAH4AqXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBmdAAGT2JqZWN0c3EAfgBsc3EAfgBvdXEAfgByAAAAA3NxAH4AdHQABGphdmFzcQB+AHR0AARsYW5ncQB+AH9zcQB+AGZ0AANBbnlzcQB+AGxzcQB+AG91cQB+AHIAAAACc3EAfgB0dAAFc2NhbGFxAH4Af3NxAH4ATHEAfgBZdXEAfgBaAAAAAHNxAH4AnQB0ACpjb20uZXhhbXBsZS5hcHAuU3ByaW5nQm9vdFNjYWxhQXBwbGljYXRpb251cQB+AKAAAAAAfnEAfgCidAAGTW9kdWxldXEAfgCmAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4AqXEAfgCtc3EAfgCpc3EAfgCvc3EAfgCpdXEAfgBKAAAAAHNxAH4AqXVxAH4ASgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXEAfgBeWwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAAFzcQB+AFx1cQB+AGAAAAABc3EAfgBicQB+AGR0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AGZ0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AbHNxAH4Ab3VxAH4AcgAAAAJzcQB+AHRxAH4Ax3EAfgB/c3EAfgCdAHEAfgAhdXEAfgCgAAAAAHNxAH4AZnQABFVuaXRxAH4A43VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AF54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKN0AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBnWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgBmdAAFQXJyYXlxAH4A43VxAH4AtgAAAAFzcQB+AGZ0AAZTdHJpbmdzcQB+AGxzcQB+AG91cQB+AHIAAAADc3EAfgB0cQB+AL5zcQB+AHRxAH4AwHEAfgB/c3EAfgCpdXEAfgC2AAAABHNxAH4AZnQAA0FwcHEAfgDjc3EAfgBmdAALRGVsYXllZEluaXRxAH4A43NxAH4AZnEAfgC5cQB+AQBzcQB+AGZxAH4AwnEAfgDjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPY29tLmV4YW1wbGUuYXBwc3EAfgEPdAALY29tLmV4YW1wbGVzcQB+AQ90AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqjwG3DdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9ob21lL25pbXJvZC9Qcm9qZWN0cy9zcHJpbmctYm9vdC1zY2FsYS1zYnQtc2FtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRFcgCG6PUAwbvaLuyRs1dscyWn/A==
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxwfeGQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnR6o9nQABm5vdGlmeXNxAH4ADHTpv3x0AAZmb3JtYXRzcQB+AAwT6KO+dAAKZ2V0UGF0dGVybnNxAH4ADBb6zMd0AAR3YWl0c3EAfgAMXwEk9XQADSRhc0luc3RhbmNlT2ZzcQB+AAzaZAeqdAAHcGF0dGVybnNxAH4ADIwQyct0AAZlcXVhbHNzcQB+AAwrVJCldAAMYXNJbnN0YW5jZU9mc3EAfgAMgkR++nQADkhlbGxvRm9ybWF0dGVyc3EAfgAMad/ziHQADHN5bmNocm9uaXplZHNxAH4ADJn6HaF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlpCudXQACnNldFBhdHRlcm5zcQB+AAyfrGjVdAAJbm90aWZ5QWxsc3EAfgAMBLl7zXQADGlzSW5zdGFuY2VPZnNxAH4ADGUlrwR0AAY8aW5pdD5zcQB+AAyXiVaidAACPT1zcQB+AAwDOblndAAFY2xvbmVzcQB+AAxDnTevdAAIdG9TdHJpbmdzcQB+AAzTkd8HdAACIT1zcQB+AAwb440ZdAAIZ2V0Q2xhc3NzcQB+AAy13uwJdAACbmVzcQB+AAzl28uVdAACZXFzcQB+AAz6jNygdAACIyNzcQB+AAzdTqYUdAAIZmluYWxpemVzcQB+AAwafdxHdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAACKClzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAANQ29uZmlndXJhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgBudAAPc3ByaW5nZnJhbWV3b3Jrc3EAfgBudAAHY29udGV4dHNxAH4AbnQACmFubm90YXRpb25zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ab3NxAH4AVnVxAH4AWgAAAAFzcQB+AFxxAH4AXnQAAigpc3EAfgBgdAAJQ29tcG9uZW50c3EAfgBmc3EAfgBpdXEAfgBsAAAABHNxAH4AbnQAA29yZ3NxAH4AbnQAD3NwcmluZ2ZyYW1ld29ya3NxAH4AbnQACnN0ZXJlb3R5cGVxAH4AeXNxAH4AVnVxAH4AWgAAAAFzcQB+AFxxAH4AXnQAAigpc3EAfgBgdAAdRW5hYmxlQ29uZmlndXJhdGlvblByb3BlcnRpZXNzcQB+AGZzcQB+AGl1cQB+AGwAAAAGc3EAfgBudAADb3Jnc3EAfgBudAAPc3ByaW5nZnJhbWV3b3Jrc3EAfgBudAAEYm9vdHNxAH4AbnQAB2NvbnRleHRzcQB+AG50AApwcm9wZXJ0aWVzcQB+AHlzcQB+AFZ1cQB+AFoAAAADc3EAfgBcdAAJbG9jYXRpb25zdAAjWyJjbGFzc3BhdGg6YXBwLWNvbmZpZy5wcm9wZXJ0aWVzIl1zcQB+AFx0AAZwcmVmaXh0AAciaGVsbG8ic3EAfgBcdAATaWdub3JlVW5rbm93bkZpZWxkc3QABHRydWVzcQB+AGB0ABdDb25maWd1cmF0aW9uUHJvcGVydGllc3EAfgCPc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAqY29tLmV4YW1wbGUuYXBwLmNvbnRyb2xsZXJzLkhlbGxvRm9ybWF0dGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AGJzcQB+ALRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBjc3EAfgC0dXEAfgBEAAAAAHNxAH4AtHVxAH4ARAAAAABzcQB+ALR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AYHQABk9iamVjdHNxAH4AZnNxAH4AaXVxAH4AbAAAAANzcQB+AG50AARqYXZhc3EAfgBudAAEbGFuZ3EAfgB5c3EAfgBgdAADQW55c3EAfgBmc3EAfgBpdXEAfgBsAAAAAnNxAH4AbnQABXNjYWxhcQB+AHl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA9jb20uZXhhbXBsZS5hcHBzcQB+ANV0ABtjb20uZXhhbXBsZS5hcHAuY29udHJvbGxlcnNzcQB+ANV0AAtjb20uZXhhbXBsZXNxAH4A1XQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqPAbcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvbmltcm9kL1Byb2plY3RzL3NwcmluZy1ib290LXNjYWxhLXNidC1zYW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAkkm5EeKseDNL+iJN2jWkYdsh/c
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw35AKKgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwoRKtaXQABm5vdGlmeXNxAH4ADCvFqJt0AAhzYXlIZWxsb3NxAH4ADHB7oVp0AAR3YWl0c3EAfgAMC+A9B3QADSRhc0luc3RhbmNlT2ZzcQB+AAx7MGTrdAAGbG9nZ2Vyc3EAfgAMaAjG83QADGhlbGxvTWVzc2FnZXNxAH4ADAhDw0N0AAZlcXVhbHNzcQB+AAwZE8NhdAAMYXNJbnN0YW5jZU9mc3EAfgAMiezM73QADHN5bmNocm9uaXplZHNxAH4ADGSCL9F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMXOajOnQACW5vdGlmeUFsbHNxAH4ADMprmcN0AAxpc0luc3RhbmNlT2ZzcQB+AAx4tcHudAAUSGVsbG9Xb3JsZENvbnRyb2xsZXJzcQB+AAzq+6j/dAAGPGluaXQ+c3EAfgAMreatsXQADmhlbGxvRm9ybWF0dGVyc3EAfgAMRL9qWXQAAj09c3EAfgAMpFGHhHQABWNsb25lc3EAfgAMJVeQcHQABiRpbml0JHNxAH4ADOpefjZ0AAh0b1N0cmluZ3NxAH4ADJT/vN90AAIhPXNxAH4ADLgqnFZ0AAhnZXRDbGFzc3NxAH4ADDIiO0t0AAlwb3N0SGVsbG9zcQB+AAz0PvLWdAACbmVzcQB+AAzJ+sLzdAACZXFzcQB+AAzxrBOhdAACIyNzcQB+AAyhIYqwdAAIZmluYWxpemVzcQB+AAyNZ46WdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAACKClzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAOUmVzdENvbnRyb2xsZXJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAZzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AcnQAD3NwcmluZ2ZyYW1ld29ya3NxAH4AcnQAA3dlYnNxAH4AcnQABGJpbmRzcQB+AHJ0AAphbm5vdGF0aW9uc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHNzcQB+AFp1cQB+AF4AAAABc3EAfgBgdAAFdmFsdWV0AA9bIi9oZWxsb3dvcmxkIl1zcQB+AGR0AA5SZXF1ZXN0TWFwcGluZ3EAfgBsc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAwY29tLmV4YW1wbGUuYXBwLmNvbnRyb2xsZXJzLkhlbGxvV29ybGRDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAA2b3JnLnNwcmluZ2ZyYW1ld29yay5iZWFucy5mYWN0b3J5LmFubm90YXRpb24uQXV0b3dpcmVkdAA2b3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLlJlcXVlc3RNYXBwaW5nc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AGZzcQB+AJRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBnc3EAfgCUdXEAfgBIAAAAAHNxAH4AlHVxAH4ASAAAAABzcQB+AJR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNxAH4AZHQAC0xhenlMb2dnaW5nc3EAfgBqc3EAfgBtdXEAfgBwAAAABXNxAH4AcnQAA2NvbXNxAH4AcnQACHR5cGVzYWZlc3EAfgBydAAMc2NhbGFsb2dnaW5nc3EAfgBydAAFc2xmNGpxAH4Af3NxAH4AZHQAB0xvZ2dpbmdzcQB+AGpzcQB+AG11cQB+AHAAAAAEc3EAfgBydAADY29tc3EAfgBydAAIdHlwZXNhZmVzcQB+AHJ0AAxzY2FsYWxvZ2dpbmdxAH4Af3NxAH4AZHQABk9iamVjdHNxAH4AanNxAH4AbXVxAH4AcAAAAANzcQB+AHJ0AARqYXZhc3EAfgBydAAEbGFuZ3EAfgB/c3EAfgBkdAADQW55c3EAfgBqc3EAfgBtdXEAfgBwAAAAAnNxAH4AcnQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA9jb20uZXhhbXBsZS5hcHBzcQB+AM10ABtjb20uZXhhbXBsZS5hcHAuY29udHJvbGxlcnNzcQB+AM10AAtjb20uZXhhbXBsZXNxAH4AzXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqPAbcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvbmltcm9kL1Byb2plY3RzL3NwcmluZy1ib290LXNjYWxhLXNidC1zYW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFa+MQ+enziheblegPde9bSrSl0h
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxxnDDwABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw59CWj3QABm5vdGlmeXNxAH4ADHUeEhZ0AAd1bmFwcGx5c3EAfgAMJT27z3QAB2N1cnJpZWRzcQB+AAxcOgkddAAHcGFja2FnZXNxAH4ADEzQU310AAR3YWl0c3EAfgAM/ogmInQADmNvcHkkZGVmYXVsdCQyc3EAfgAMirxcVnQADSRhc0luc3RhbmNlT2ZzcQB+AAyW2XXqdAAMaGVsbG9NZXNzYWdlc3EAfgAMZFrjcXQADHByb2R1Y3RBcml0eXNxAH4ADCupvj50AAZlcXVhbHNzcQB+AAywdDlodAAMYXNJbnN0YW5jZU9mc3EAfgAMZ5RxJ3QADHN5bmNocm9uaXplZHNxAH4ADEHeN3t0AAxIZWxsb1JlcXVlc3RzcQB+AAxCFc4gdAANJGlzSW5zdGFuY2VPZnNxAH4ADDbeg250AAZ0dXBsZWRzcQB+AAwAC7DjdAAIY2FuRXF1YWxzcQB+AAzKdIXZdAANcHJvZHVjdFByZWZpeHNxAH4ADNUP3uV0AAlub3RpZnlBbGxzcQB+AAwZUaT4dAAMaXNJbnN0YW5jZU9mc3EAfgAMxoZTUHQABjxpbml0PnNxAH4ADCNPb4F0AAVhcHBseXNxAH4ADH/f+4d0AARkYXRlc3EAfgAMjhEgKXQAAj09c3EAfgAMbiSOG3QABWNsb25lc3EAfgAM3n0NTXQABiRpbml0JHNxAH4ADDxW3k50AARjb3B5c3EAfgAMZNe1GXQACHRvU3RyaW5nc3EAfgAM2/KSr3QAAiE9c3EAfgAMgjBIonQACGdldENsYXNzc3EAfgAM4tT3f3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMhl7dnnQAAm5lc3EAfgAMFR/ef3QAAmVxc3EAfgAMYdQhz3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHYAqfl0AAIjI3NxAH4ADIu908h0AAhmaW5hbGl6ZXNxAH4ADFjWvFJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADD2Iw1x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACNjb20uZXhhbXBsZS5hcHAuY29udHJvbGxlcnMucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AeXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AH5zcQB+AHl1cQB+AFwAAAAAc3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Al3NxAH4AinQAA0FueXNxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZ0AAVzY2FsYXEAfgCddXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPY29tLmV4YW1wbGUuYXBwc3EAfgCndAAbY29tLmV4YW1wbGUuYXBwLmNvbnRyb2xsZXJzc3EAfgCndAALY29tLmV4YW1wbGVzcQB+AKd0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqjwG3DdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9ob21lL25pbXJvZC9Qcm9qZWN0cy9zcHJpbmctYm9vdC1zY2FsYS1zYnQtc2FtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQI2AcKNyMQ1t02e5DoI7Bb3xXMfg==
+external apis:
+0 items
+source infos:
+4 items
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/SpringBootScalaApplication.scala -> 
+AAAAAAAAAAA=
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloFormatter.scala -> 
+AAAAAAAAAAA=
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/HelloWorldController.scala -> 
+AAAAAAAAAAA=
+/home/nimrod/Projects/spring-boot-scala-sbt-sample/src/main/scala-2.11/com/example/app/controllers/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqPAbcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL25pbXJvZC9Qcm9qZWN0cy9zcHJpbmctYm9vdC1zY2FsYS1zYnQtc2FtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
